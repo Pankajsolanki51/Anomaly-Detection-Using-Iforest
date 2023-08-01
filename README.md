@@ -26,4 +26,4 @@ The first anomaly is a planned shutdown of the machine.
 The second anomaly is difficult to detect and directly led to the third anomaly, a catastrophic failure of the machine.
 
 ## SEE hosted notebook on web 
-https://9x9rffulxzjrtum5pkde9a.on.drv.tw/www.Anomaly_detection.com/
+https://pankajsolankiprojectss.on.drv.tw/www.Anomaly_detection.com/
