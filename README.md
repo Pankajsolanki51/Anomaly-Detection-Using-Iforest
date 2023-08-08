@@ -25,5 +25,5 @@ Temperature sensor data of an internal component of a large, industrial mahcine.
 The first anomaly is a planned shutdown of the machine.
 The second anomaly is difficult to detect and directly led to the third anomaly, a catastrophic failure of the machine.
 
-## SEE hosted notebook on web 
-https://pankajsolankiprojectss.on.drv.tw/www.Anomaly_detection.com/
+
+
